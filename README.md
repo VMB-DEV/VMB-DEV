@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/VMB-DEV/VMB-DEV/blob/main/.gitRes/YUTOPIA.gif>
+   <img src="https://github.com/VMB-DEV/VMB-DEV/blob/main/.gitRes/YUTOPIA.gif">
 </p>
 
 <!--
