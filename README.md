@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+   <img src="https://github.com/VMB-DEV/VMB-DEV/blob/main/.gitRes/YUTOPIA.gif>
+</p>
 
 <!--
 **VMB-DEV/VMB-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
