@@ -1,4 +1,4 @@
-![my banner](https://github.com/VMB-DEV/VMB-DEV/blob/main/.gitRes/vmb.png?raw=true)
+![banner](https://github.com/VMB-DEV/VMB-DEV/blob/main/.gitRes/vmb%20(copy).png?raw=true)
 # 💻 Tech Stack:
 
 <h6>
