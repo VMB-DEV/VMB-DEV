@@ -48,6 +48,12 @@
   <img src="https://shields.io/badge/proton-4E2ABB.svg?style=flat&labelColor=171717&logoColor=ffffff&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UHJvdG9uPC90aXRsZT48cGF0aCBmaWxsPSIjNkQ0QUZGIiBkPSJNMi40NzQgMTcuNzVWMjRoNC40MDF2LTUuOTc5YzAtLjU4Mi4yMzItMS4xNC42NDUtMS41NTFhMi4yMDQgMi4yMDQgMCAwIDEgMS41NTYtLjY0M2g0LjUxM2E3Ljk1NSA3Ljk1NSAwIDAgMCA1LjYxMi0yLjMxOCA3LjkwNyA3LjkwNyAwIDAgMCAyLjMyNS01LjU5NSA3LjkxIDcuOTEgMCAwIDAtMi4zMjUtNS41OTZBNy45NTggNy45NTggMCAwIDAgMTMuNTg3IDBIMi40NzR2Ny44MTJoNC40MDFWNC4xMjloNi40MTZjLjk5NSAwIDEuOTUxLjM5NCAyLjY1NiAxLjA5Ny43MDQuNyAxLjEgMS42NTMgMS4xMDEgMi42NDZhMy43NDIgMy43NDIgMCAwIDEtMS4xMDEgMi42NDggMy43NjYgMy43NjYgMCAwIDEtMi42NTYgMS4wOTdIOC42MjdhNi4xNTggNi4xNTggMCAwIDAtNC4zNTIgMS43OTUgNi4xMzMgNi4xMzMgMCAwIDAtMS44MDEgNC4zMzhaIi8+PC9zdmc+Cg==" alt="Slack">
 
 </h6>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 <!-- https://naereen.github.io/badges/ -->
 <!-- https://simpleicons.org/ -->
